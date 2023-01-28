@@ -1,0 +1,7 @@
+{
+  "extends": "./example/.umi/tsconfig.json",
+  "compilerOptions": {
+    "baseUrl": "./example",
+    "strictPropertyInitialization": false
+  }
+}
